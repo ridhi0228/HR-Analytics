@@ -1,5 +1,5 @@
 # HR-Analytics
-
+[Live Dashboard](https://www.novypro.com/project/hr-analytics-52)
 
 This project aims to empower the HR team at Atliq with valuable insights into employee behavior and preferences, ultimately enhancing productivity. Through the implementation of a comprehensive dashboard, we will gain a deeper understanding of important terminologies such as 
 WFH (Work from Home), 
