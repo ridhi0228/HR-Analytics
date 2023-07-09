@@ -19,3 +19,6 @@ Sick Count: By monitoring sick leave data, we gain insights into employee well-b
 Office Presence: Our HR analytics reveals interesting trends in employee office presence. We notice higher attendance rates on certain days, suggesting a preference for in-office collaboration and face-to-face interactions. Understanding these patterns allows us to optimize office spaces, foster team dynamics, and facilitate effective communication.
 
 These insights empower us to adapt HR strategies, create a flexible work environment, and promote a healthy work-life balance. By leveraging data-driven decisions, we can optimize employee experiences and drive overall organizational success.
+
+![Screenshot (107)](https://github.com/ridhi0228/HR-Analytics/assets/132190698/b778d0d4-aa25-4066-950d-4e4a994cefa2)
+
